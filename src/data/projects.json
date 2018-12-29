@@ -42,7 +42,7 @@
     "name": "Coding Problems",
     "description": "This is my default repository for small projects! A lot of these are from classes I've taken or from competitions I've participated in. Some highlights include the Huffman Encoding algorithm, a random writer, and Google Code Jam solutions.",
     "code_link": "https://github.com/aspittel/coding-problems",
-    "deploy_link": "https://github.com/aspittel/coding-problems",
+    "deploy_link": "https://github.com/aspittel/coding-problem
     "tools": ["Python", "C++"],
     "icons":["devicon-python-plain", "devicon-cplusplus-plain"]
   },
@@ -55,7 +55,7 @@
     "icons":["devicon-d3js-plain", "devicon-javascript-plain"]
   },
   {
-    "name": "Tic Tac Toe",
+    "name": "Ashay",
     "description": "Simple Tic Tac Toe game in vanilla JavaScript.",
     "code_link": "https://github.com/aspittel/tic-tac-toe/",
     "deploy_link": "https://www.alispit.tel/tic-tac-toe/",
